@@ -99,5 +99,6 @@
                 return -1;
             }
         }
-        int result = Ackermann(2,1);
+        int result = Ackermann(0,1);
         Console.Write(result);
+        Console.Write("\n");
